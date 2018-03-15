@@ -1,0 +1,32 @@
+﻿@using Blog.DAL.Model
+@model SiteHomeViewModel
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPageSite.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+            @foreach (var item in Model.Gonderiler)
+            {
+                <div class="post-preview">
+                    <a href="/PostSite/Post/@item.Id">
+                        <h2 class="post-title">
+                            @item.Title
+                        </h2>
+
+                    </a>
+                    <p class="post-meta">
+                        Posted by
+                        @item.UserId
+                        @item.PostDate
+                    </p>
+                </div>
+            }
+
+        </div>
+    </div>
+</div>
+

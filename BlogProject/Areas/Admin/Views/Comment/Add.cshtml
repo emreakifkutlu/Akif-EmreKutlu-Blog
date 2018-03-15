@@ -1,0 +1,47 @@
+﻿@using Blog.DAL.Entities
+@model Comment
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container">
+
+    @using (Html.BeginForm())
+            {
+        @Html.AntiForgeryToken()
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Yorum</label>
+                @Html.TextAreaFor(x => x.CommentBody,10,50, new { @class = "form-control", @type = "text", @placeholder="Yorum Yazınız" })
+                <span class="text-danger">@Html.ValidationMessageFor(x => x.CommentBody)</span>
+            </div>
+            <div class="form-group">
+                <label>Post ID</label>
+                @Html.TextAreaFor(x => x.PostId, new { @class = "form-control", @type = "text", @placeholder = "PostID sini giriniz" })
+                <span class="text-danger">@Html.ValidationMessageFor(x => x.PostId)</span>
+            </div>
+            <input type="submit" class="btn btn-primary btn-block" value="Yorum Ekle" />
+            <br />
+
+            <div class="row">
+                @if (ViewBag.Msg != null)
+                {
+                    if (ViewBag.Result)
+                    {
+                        <span class="alert alert-success">@ViewBag.Msg</span>
+                    }
+                    else
+                    {
+                        <span class="alert alert-danger">@ViewBag.Msg</span>
+                    }
+                }
+
+            </div>
+
+        </div>
+
+    }
+
+</div>

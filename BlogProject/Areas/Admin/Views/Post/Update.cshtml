@@ -1,0 +1,65 @@
+﻿@using Blog.DAL.Model
+@model PostViewModel
+@{
+    ViewBag.Title = "Güncelle";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<body>
+
+    @if (ViewBag.Msg != null || ViewBag.Result == true)
+    {
+        <div class="alert alert-success">@ViewBag.Msg</div>
+    }
+    else if (ViewBag.Msg != null || ViewBag.Result == false)
+    {
+        <div class="alert alert-danger">@ViewBag.Msg</div>
+    }
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                @using (Html.BeginForm("Update", "Post", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+                {
+                    @Html.HiddenFor(x => x.Post.Id)
+                    @Html.HiddenFor(x => x.Post.UserId)
+                    @Html.HiddenFor(x => x.Post.CategoryId)
+                    @Html.HiddenFor(x => x.Post.DislikeCount)
+                    @Html.HiddenFor(x => x.Post.LikeCount)
+
+                    @Html.AntiForgeryToken()
+                    //form içindeki inputların web sitesi tarafından gönderildiğini anlamak için kullanılan bir güvenlik özelliği her post formunda olmalıdır.
+                    <label>Başlık</label>
+                    @Html.TextBoxFor(x => x.Post.Title, new { @class = "form-control" })
+                    <span class="text-danger">@Html.ValidationMessageFor(x => x.Post.Title)</span>
+                    <label>Post İçeriği</label>
+                    @Html.TextBoxFor(x => x.Post.PostBody, new { @class = "form-control" })
+                    <span class="text-danger">@Html.ValidationMessageFor(x => x.Post.PostBody)</span>
+                    <label>Açıklama</label>
+                    @Html.TextBoxFor(x => x.Post.Description, new { @class = "form-control" })
+                    <span class="text-danger">@Html.ValidationMessageFor(x => x.Post.Description)</span>
+                    <label>Özet</label>
+                    @Html.TextBoxFor(x => x.Post.Summary, new { @class = "form-control" })
+                    <span class="text-danger">@Html.ValidationMessageFor(x => x.Post.Summary)</span>
+
+                    <label for="file">Resim Seç:</label>
+                    <input type="file" name="PostedPic" id="file" accept="image/jpg" /><br><br>
+                    <span class="text-danger">@Html.ValidationMessageFor(x => x.PostedPic)</span>
+                    <br><br>
+
+                    <input class="btn btn-primary" type="submit" name="name" value="Post Düzenle" />
+                }
+            </div>
+        </div>
+    </div>
+
+</body>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "UploadImage";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Resim Yükle</h2>
+@using (Html.BeginForm("UploadImage","Post",
+                                    FormMethod.Post,
+                                    new { enctype = "multipart/form-data" }))
+{
+    @*<label for="file">Resim Yükle:</label>*@
+    <input type="file" name="file" id="file" /><br><br>
+    <input type="submit" value="Resim Yükle" />
+    <br><br>
+    @ViewBag.Message
+}

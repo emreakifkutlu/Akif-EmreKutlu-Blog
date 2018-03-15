@@ -1,0 +1,64 @@
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.dll.config
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\Blog.DAL.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\FluentValidation.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\Blog.DAL.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\bin\Debug\FluentValidation.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.dll.config
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\Blog.DAL.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\FluentValidation.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\Blog.DAL.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\bin\Debug\FluentValidation.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.dll.config
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\Blog.DAL.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\FluentValidation.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\Blog.DAL.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\FluentValidation.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\Blog.Core.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\Blog.Repository.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\Blog.Core.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.BLL\bin\Debug\Blog.Repository.pdb
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.dll.config
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\Blog.BLL.pdb
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\Blog.Core.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\Blog.DAL.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\Blog.Repository.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\FluentValidation.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\Blog.Core.pdb
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\Blog.DAL.pdb
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\Blog.Repository.pdb
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\bin\Debug\FluentValidation.xml
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.BLL\obj\Debug\Blog.BLL.pdb

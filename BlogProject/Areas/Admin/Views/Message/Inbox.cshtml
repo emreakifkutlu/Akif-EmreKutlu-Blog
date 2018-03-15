@@ -1,0 +1,41 @@
+﻿
+@using Blog.DAL.Entities
+@model IEnumerable<Message>
+
+@{
+    ViewBag.Title = "Inbox";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Email Adresi</th>
+            <th scope="col">Başlık</th>
+            <th scope="col">İçerik</th>
+            <th scope="col">Tarih</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+              
+                <td>@item.Email</td>
+                <td>@item.Title</td>
+                <td>@item.MessageBody</td>
+                <td>@item.MessageDate</td>
+                <td><a href="/Admin/Message/Goruntule/@item.Id" class="btn btn-primary btn-block">Görüntüle</a></td>
+                <td><a href="/Admin/Message/Delete/@item.Id" class="btn btn-danger btn-block">Sil</a></td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+

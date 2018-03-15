@@ -1,0 +1,46 @@
+﻿@using Blog.DAL.Entities
+@model Comment
+@{
+    ViewBag.Title = "Güncelle";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<body>
+
+    @if (ViewBag.Msg != null || ViewBag.Result == true)
+    {
+        <div class="alert alert-success">@ViewBag.Msg</div>
+    }
+    else if (ViewBag.Msg != null || ViewBag.Result == false)
+    {
+        <div class="alert alert-danger">@ViewBag.Msg</div>
+    }
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3">
+                @using (Html.BeginForm())
+                {
+                    @Html.HiddenFor(x => x.Id)
+                    @Html.HiddenFor(x => x.UserId)
+                    @Html.HiddenFor(x => x.PostId)
+                    @Html.HiddenFor(x => x.LikeCount)
+                    @Html.HiddenFor(x => x.DislikeCount)
+
+                    @Html.AntiForgeryToken()
+                    //form içindeki inputların web sitesi tarafından gönderildiğini anlamak için kullanılan bir güvenlik özelliği her post formunda olmalıdır.
+                    @Html.TextAreaFor(x => x.CommentBody  , new { @class = "form-control" })
+                    <span class="text-danger">@Html.ValidationMessageFor(x => x.CommentBody)</span>
+
+                    <input class="btn btn-primary" type="submit" name="name" value="Yorum Düzenle" />
+                }
+            </div>
+        </div>
+    </div>
+
+</body>
+
+
+
+
+

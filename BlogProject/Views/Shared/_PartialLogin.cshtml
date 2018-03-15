@@ -1,0 +1,15 @@
+﻿@using Blog.DAL.Model
+@model SiteHomeViewModel
+
+@if (Model.Kullanici.Name != null)
+{ 
+    <li class="nav-item">
+        <a class="nav-link" href="/Users/Login">@Model.Kullanici.Name</a>
+    </li>
+}
+else
+{
+    <li class="nav-item">
+        <a class="nav-link" href="/Users/Login">Log In</a>
+    </li>
+}

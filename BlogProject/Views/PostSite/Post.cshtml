@@ -1,0 +1,176 @@
+﻿@using Blog.DAL.Model
+@model SiteHomeViewModel
+
+
+@{
+    ViewBag.Title = "Post";
+    Layout = "~/Views/Shared/_LayoutPageSite.cshtml";
+}
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+
+
+                <a href="#">
+                    <img class="img-fluid" src="@Model.Gonderi.PostPic" alt="">
+                </a>
+                @*<span class="caption text-muted">@Model.Gonderi.Description</span>*@
+                <p>@Model.Gonderi.PostBody</p>
+
+                @if (ViewBag.Log == "true")
+                {
+                <span class="socialicons-post" id="like">
+
+                    <button id="likeButton" theme="drop" class="fa fa-thumbs-up">Beğen</button>
+                    <span>@Model.Gonderi.LikeCount</span>&nbsp;&nbsp;
+                </span>
+
+                <span class="socialicons-post" id="dislike">
+                    <button id="dislikeButton" theme="drop" class="fa fa-thumbs-down">Beğenme</button>
+                    <span>@Model.Gonderi.DislikeCount</span>&nbsp;&nbsp;
+
+                </span>
+                }
+                else
+                {
+                    <div class="leaveraplay">
+                        <span>Beğeni yapabilmek için <a href="/Admin/Account/Login">Giriş</a> yapınız...</span>
+                    </div>
+                }
+
+                <div class="comments" id="yorum">
+                    @if (Model.Yorumlar != null)
+                     {
+                         foreach (var item in Model.Yorumlar)
+                            {
+                            <div class="comment">
+                                <div class="text">
+                                    <span>@item.User.Name @item.User.LastName</span><br>
+                                    <i>@item.CommentBody</i><br>
+                                    <i>@item.CommentDate<i/><br><br>
+                                </div>
+                            </div>
+                             }
+                      }
+                 </div>
+
+            </div>
+        </div>
+      
+            @if (ViewBag.Log == "true")
+            {
+                 <div class="row">
+                     <div class="col-lg-8 col-md-10 mx-auto">
+                        <h5>YORUM YAZ</h5>
+                       <textarea name="subject" id="commentText" value="Yorum yazınız..." cols="69"></textarea>
+                        <br />
+                          <button id="sendComment" class="btn btn-default">YORUMLA</button>
+                     </div>
+                 </div>
+            }
+            else
+            { 
+                 <div class="row">
+                     <div class="leaveraplay">
+                         <span>Yorum yapabilmek için <a href="/Admin/Account/Login">Giriş</a> yapınız...</span>
+                    </div>
+                 </div>
+            }
+    </div>
+</article>
+
+@section scripts{
+    <script>
+        var postId=@Model.Gonderi.Id
+        $(document).ready(function () {
+
+
+            $("#sendComment").click(function () {
+                var comment = $("#commentText").val();
+
+                $.ajax({
+                    url: "/PostSite/CommentAdd?yorum=" + comment+"&postId="+postId,
+                    datatype: "json",
+                    type: "post",
+                    success: function (response) {
+
+                        $("#yorum").prepend( //<div class="comments" id="yorum"> #yorum veya .comments yazilmali.Eklenecek kismin id si veya class i alinir.
+                             "<div class='comment'>"
+                             + "<div class='text'>"
+                             + "<span>" +response.Name+" "+response.LastName+ "</span><br>"
+                              + "<i>" + response.CommentBody + "</i>"
+                             + "<i>" + response.CommentDate + "</i>"+ "<br>"+"<br>"
+                            
+                             + "</div>"
+                             + "</div>"
+                                        );
+                    }
+                })
+            })
+
+            var likeCount = @Model.Gonderi.LikeCount;
+            var durum1="like";
+            @*var user="@Model.LogUser";*@
+           
+
+            $("#likeButton").click(function(){
+                if(durum1=="like")
+                    {
+                        likeCount++;
+                        durum1="dislike";
+                    }
+                
+                else if(durum1=="dislike")
+                    {
+                        likeCount--;
+                        durum1="like";
+                     }
+             
+                //ajax start//
+                $.ajax({
+                    url:"/PostSite/Like?likeCount="+likeCount+"&postId="+postId,
+                    type:"POST",
+                    dataType:"json",
+                    success:function(response){
+                        console.log(response);
+                        $("#like span").text(response);
+                    }
+                })
+                //ajax end//
+            })
+
+            var dislikeCount = @Model.Gonderi.DislikeCount;
+            var durum2="dislike";
+            $("#dislikeButton").click(function(){
+                if(durum2=="dislike")
+                {
+                    dislikeCount++;
+                    durum2="like";
+                }
+                else if(durum2=="like")
+                {
+                    dislikeCount--;
+                    durum1="like";
+                }
+
+                //ajax start//
+                $.ajax({
+                    url:"/PostSite/dislike?dislikeCount="+dislikeCount+"&postId="+postId,
+                    type:"POST",
+                    dataType:"json",
+                    success:function(response){
+                        console.log(response);
+                        $("#dislike span").text(response);
+                    }
+                })
+
+            });
+        });
+    </script>
+}
+
+
+

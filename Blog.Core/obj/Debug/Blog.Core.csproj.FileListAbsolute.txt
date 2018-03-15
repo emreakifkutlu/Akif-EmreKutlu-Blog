@@ -1,0 +1,39 @@
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.Core\bin\Debug\Blog.Core.dll.config
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.Core\bin\Debug\Blog.Core.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.Core\bin\Debug\Blog.Core.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.Core\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.Core\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.Core\obj\Debug\Blog.Core.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\Blog.Core\obj\Debug\Blog.Core.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.Core\bin\Debug\Blog.Core.dll.config
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.Core\bin\Debug\Blog.Core.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.Core\bin\Debug\Blog.Core.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.Core\bin\Debug\EntityFramework.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.Core\bin\Debug\EntityFramework.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.Core\obj\Debug\Blog.Core.csprojResolveAssemblyReference.cache
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.Core\obj\Debug\Blog.Core.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\Blog.Core\obj\Debug\Blog.Core.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.Core\bin\Debug\Blog.Core.dll.config
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.Core\bin\Debug\Blog.Core.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.Core\bin\Debug\Blog.Core.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.Core\bin\Debug\EntityFramework.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.Core\bin\Debug\EntityFramework.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.Core\obj\Debug\Blog.Core.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.Core\obj\Debug\Blog.Core.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\Blog.Core\obj\Debug\Blog.Core.pdb
+C:\Users\Mypisi\Desktop\BlogProject\Blog.Core\bin\Debug\Blog.Core.dll.config
+C:\Users\Mypisi\Desktop\BlogProject\Blog.Core\bin\Debug\Blog.Core.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.Core\bin\Debug\Blog.Core.pdb
+C:\Users\Mypisi\Desktop\BlogProject\Blog.Core\bin\Debug\EntityFramework.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.Core\bin\Debug\EntityFramework.xml
+C:\Users\Mypisi\Desktop\BlogProject\Blog.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mypisi\Desktop\BlogProject\Blog.Core\obj\Debug\Blog.Core.csprojResolveAssemblyReference.cache
+C:\Users\Mypisi\Desktop\BlogProject\Blog.Core\obj\Debug\Blog.Core.dll
+C:\Users\Mypisi\Desktop\BlogProject\Blog.Core\obj\Debug\Blog.Core.pdb

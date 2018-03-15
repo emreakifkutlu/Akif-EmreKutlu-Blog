@@ -1,0 +1,22 @@
+﻿@using Blog.DAL.Entities
+@model Message
+@{
+    ViewBag.Title = "Goruntule";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+
+    @using (Html.BeginForm())
+    {
+        @Html.HiddenFor(x => x.Id)
+        @Html.AntiForgeryToken()
+        <span>@Model.Title</span>
+        <hr>
+       <p>Kimden :&nbsp; @Model.Email</p>
+       <span>@Model.MessageDate</span>
+        
+        <p><br />@Model.MessageBody</p>
+        <form><INPUT TYPE="button" VALUE="Geri" onClick="history.go(-1)"></form>
+    }
+    </div>
+

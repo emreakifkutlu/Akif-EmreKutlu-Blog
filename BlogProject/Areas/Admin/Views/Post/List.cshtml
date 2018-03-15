@@ -1,0 +1,40 @@
+﻿@using System.Web.Optimization
+@using Blog.DAL.Entities
+@model IEnumerable<Post>
+@{
+    ViewBag.Title = "Listele";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Post Başlık</th>
+            <th scope="col">Post</th>
+            <th scope="col">Post Tarihi</th>
+            <th scope="col">Açıklama</th>
+         
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Title</td>
+                <td>@item.PostBody</td>
+                <td>@item.PostDate</td>
+                <td>@item.Description</td>
+                
+                <td><a href="/Admin/Post/Update/@item.Id" class="btn btn-primary btn-block">Güncelle</a></td>
+                <td><a href="/Admin/Post/Delete/@item.Id" class="btn btn-danger btn-block">Sil</a></td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+

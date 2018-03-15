@@ -1,0 +1,288 @@
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\obj\Debug\Blog.UI.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\ApplicationInsights.config
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\BlogProject.dll.config
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\BlogProject.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\BlogProject.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Antlr3.Runtime.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Blog.BLL.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Blog.DAL.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Blog.Repository.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.AI.Web.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Newtonsoft.Json.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Optimization.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Webpages.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\WebGrease.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\FluentValidation.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Blog.Core.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Blog.BLL.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Blog.DAL.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Blog.Repository.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Antlr3.Runtime.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.AI.Web.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Newtonsoft.Json.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Optimization.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Webpages.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\FluentValidation.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Blog.Core.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\obj\Debug\BlogProject.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\obj\Debug\BlogProject.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Unity.Abstractions.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Unity.Container.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Unity.Mvc.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\WebActivatorEx.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\bin\Unity.Mvc.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\ApplicationInsights.config
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\csc.exe
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\vbc.exe
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\BlogProject.dll.config
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\BlogProject.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\BlogProject.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Antlr3.Runtime.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Blog.BLL.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Blog.Core.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Blog.DAL.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Blog.Repository.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\EntityFramework.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\FluentValidation.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.AI.Web.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Newtonsoft.Json.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Helpers.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Mvc.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Optimization.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Razor.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Webpages.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Unity.Abstractions.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Unity.Container.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Unity.Mvc.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\WebActivatorEx.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\WebGrease.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Blog.BLL.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Blog.Core.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Blog.DAL.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Blog.Repository.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Antlr3.Runtime.pdb
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\EntityFramework.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\FluentValidation.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.AI.Web.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Newtonsoft.Json.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Optimization.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\Unity.Mvc.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Razor.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Webpages.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Helpers.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\bin\System.Web.Mvc.xml
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\obj\Debug\Blog.UI.csprojResolveAssemblyReference.cache
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\obj\Debug\BlogProject.dll
+C:\Users\Mypisi\Desktop\BlogProject-20180129T185649Z-001\BlogProject\BlogProject\obj\Debug\BlogProject.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\ApplicationInsights.config
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\BlogProject.dll.config
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\BlogProject.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\BlogProject.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Antlr3.Runtime.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Blog.BLL.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Blog.Core.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Blog.DAL.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Blog.Repository.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\FluentValidation.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.AI.Web.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Newtonsoft.Json.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Optimization.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Webpages.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Unity.Abstractions.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Unity.Container.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Unity.Mvc.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\WebActivatorEx.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\WebGrease.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Blog.BLL.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Blog.Core.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Blog.DAL.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Blog.Repository.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Antlr3.Runtime.pdb
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\FluentValidation.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.AI.Web.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Newtonsoft.Json.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Optimization.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\Unity.Mvc.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Webpages.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\obj\Debug\Blog.UI.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\obj\Debug\BlogProject.dll
+C:\Users\Section1\Desktop\MS-YAz16\MVC Proje\BlogProject\BlogProject\BlogProject\BlogProject\obj\Debug\BlogProject.pdb
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\ApplicationInsights.config
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\csc.exe
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\vbc.exe
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\BlogProject.dll.config
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\BlogProject.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\BlogProject.pdb
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Antlr3.Runtime.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Blog.BLL.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Blog.Core.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Blog.DAL.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Blog.Repository.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\EntityFramework.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\FluentValidation.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.AI.Web.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Newtonsoft.Json.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Helpers.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Mvc.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Optimization.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Razor.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Webpages.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Webpages.Razor.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Unity.Abstractions.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Unity.Container.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Unity.Mvc.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\WebActivatorEx.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\WebGrease.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Blog.BLL.pdb
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Blog.Core.pdb
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Blog.DAL.pdb
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Blog.Repository.pdb
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Antlr3.Runtime.pdb
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\EntityFramework.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\FluentValidation.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.AI.Web.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Newtonsoft.Json.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Optimization.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\Unity.Mvc.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Razor.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Webpages.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Webpages.Razor.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Helpers.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\bin\System.Web.Mvc.xml
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\obj\Debug\Blog.UI.csprojResolveAssemblyReference.cache
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\obj\Debug\BlogProject.dll
+C:\Users\Mypisi\Desktop\BlogProject\BlogProject\obj\Debug\BlogProject.pdb

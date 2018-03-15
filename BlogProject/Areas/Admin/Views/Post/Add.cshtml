@@ -1,0 +1,84 @@
+﻿@using Blog.DAL.Model
+@model PostViewModel
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container">
+
+    @using (Html.BeginForm("Add", "Post", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+            {
+        @Html.AntiForgeryToken()
+        <div class="col-md-6">
+            <div class="form-group">
+                <label>Başlık</label>
+                @Html.TextBoxFor(x => x.Post.Title, new { @class = "form-control", @type = "text", @placeholder = "Post başlığını yazınız" })
+                <span class="text-danger">@Html.ValidationMessageFor(x => x.Post.Title)</span>
+            </div>
+
+            <div class="form-group">
+                <label>Post İçeriği</label>
+                @Html.TextAreaFor(x => x.Post.PostBody, new { @class = "form-control", @type = "text", @placeholder = "Post içeriğini yazınız" })
+                <span class="text-danger">@Html.ValidationMessageFor(x => x.Post.PostBody)</span>
+            </div>
+
+            <div class="form-group">
+                <label>Post Açıklama</label>
+                @Html.TextAreaFor(x => x.Post.Description, new { @class = "form-control", @type = "text", @placeholder = "Açıklama yazınız" })
+                <span class="text-danger">@Html.ValidationMessageFor(x => x.Post.Description)</span>
+            </div>
+
+            <div class="form-group">
+                <label>Özet</label>
+                @Html.TextAreaFor(x => x.Post.Summary, new { @class = "form-control", @type = "text", @placeholder = "Özeti yazınız" })
+                <span class="text-danger">@Html.ValidationMessageFor(x => x.Post.Summary)</span>
+            </div>
+
+            @*<div class="form-group">
+                    <label>Kategori ID</label>
+                    @Html.TextBoxFor(x => x.CategoryId, new { @class = "form-control", @type = "text", @placeholder = "Kategori ID sini giriniz" })
+                    <span class="text-danger">@Html.ValidationMessageFor(x => x.CategoryId)</span>
+                </div>*@
+
+            <div class="form-group">
+                <label>Kategori ID</label>
+                @Html.DropDownListFor(x => x.Post.CategoryId, ViewData["Kategoriler"] as SelectList, "Kategori Seciniz", new { @class = "form-control", @type = "text", @placeholder = "Kategori ID sini giriniz" })
+                @*<span class="text-danger">@Html.ValidationMessageFor(x => x.CategoryId)</span>*@
+            </div>
+
+         
+                <label for="file">Resim Seç:</label>
+                <input type="file" name="PostedPic" id="file" accept="image/jpg"/><br><br>
+                <span class="text-danger">@Html.ValidationMessageFor(x => x.PostedPic)</span>
+                <br><br>
+                @ViewBag.Message
+          
+
+         
+
+            <input type="submit" class="btn btn-primary btn-block" value="Post Ekle" />
+            <br />
+
+            <div class="row">
+                @if (ViewBag.Msg != null)
+                {
+                    if (ViewBag.Result)
+                    {
+                        <span class="alert alert-success">@ViewBag.Msg</span>
+                    }
+                    else
+                    {
+                        <span class="alert alert-danger">@ViewBag.Msg</span>
+                    }
+                }
+
+            </div>
+
+        </div>
+
+    }
+
+</div>
+
